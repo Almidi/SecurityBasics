@@ -1,0 +1,8 @@
+Πηγες :
+
+Ολα τα link που μας ανεβασατε.
+Stack overflow (πολυ stack overflow)
+Python 2.7 documentation https://docs.python.org/2.7/
+
+http://eli.thegreenplace.net/2010/06/25/aes-encryption-of-files-in-python-with-pycrypto
+
